@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Abu sufian
+- 👋 Hi, I’m Abu sufian munna
 - 👀 I’m interested in Data
 - 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on with like minded proffesional
-- 📫 How to reach me vai LinkedIn
+- 💞️ I’m looking to collaborate with like minded professional
+- 📫 How to reach me via LinkedIn
 ...
 
 <!---
